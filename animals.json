@@ -2,7 +2,7 @@
 "name":"Vücut",
 "count":30,
 "cards":[
-    [{
+    {
         "tr": "PRAVASTATIN SODIUM",
         "en": "FJ Cruiser",
         "image": "http://dummyimage.com/143x116.jpg/5fa2dd/ffffff",
@@ -102,6 +102,6 @@
         "en": "Versa",
         "image": "http://dummyimage.com/179x183.jpg/5fa2dd/ffffff",
         "sound": null
-      }]
+      }
 ]
 }

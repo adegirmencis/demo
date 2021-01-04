@@ -1,0 +1,105 @@
+{
+    "name":"Sıfatlar",
+    "count":30,
+    "cards":[{
+  "tr": "Toyota",
+  "en": "Celica",
+  "image": "http://dummyimage.com/209x181.jpg/5fa2",
+  "sound": null
+}, 
+{
+  "tr": "Ford",
+  "en": "Taurus",
+  "image": "http://dummyimage.com/141x233.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Cadillac",
+  "en": "Escalade ESV",
+  "image": "http://dummyimage.com/104x223.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Ford",
+  "en": "Thunderbird",
+  "image": "http://dummyimage.com/230x217.jpg/cc0000/ffffff",
+  "sound": null
+}, {
+  "tr": "Lincoln",
+  "en": "Navigator",
+  "image": "http://dummyimage.com/212x190.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Buick",
+  "en": "Riviera",
+  "image": "http://dummyimage.com/201x123.jpg/dddddd/000000",
+  "sound": null
+}, {
+  "tr": "Saab",
+  "en": "900",
+  "image": "http://dummyimage.com/250x127.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Honda",
+  "en": "S2000",
+  "image": "http://dummyimage.com/204x162.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Subaru",
+  "en": "Alcyone SVX",
+  "image": "http://dummyimage.com/209x220.jpg/dddddd/000000",
+  "sound": null
+}, {
+  "tr": "Suzuki",
+  "en": "Sidekick",
+  "image": "http://dummyimage.com/132x183.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Infiniti",
+  "en": "Q",
+  "image": "http://dummyimage.com/100x113.jpg/ff4444/ffffff",
+  "sound": null
+}, {
+  "tr": "Mercury",
+  "en": "Lynx",
+  "image": "http://dummyimage.com/216x201.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Smart",
+  "en": "Fortwo",
+  "image": "http://dummyimage.com/137x241.jpg/cc0000/ffffff",
+  "sound": null
+}, {
+  "tr": "Volkswagen",
+  "en": "Jetta",
+  "image": "http://dummyimage.com/208x183.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Oldsmobile",
+  "en": "Cutlass",
+  "image": "http://dummyimage.com/209x172.jpg/ff4444/ffffff",
+  "sound": null
+}, {
+  "tr": "Audi",
+  "en": "S6",
+  "image": "http://dummyimage.com/102x209.jpg/ff4444/ffffff",
+  "sound": null
+}, {
+  "tr": "Porsche",
+  "en": "Boxster",
+  "image": "http://dummyimage.com/175x221.jpg/5fa2dd/ffffff",
+  "sound": null
+}, {
+  "tr": "Audi",
+  "en": "S5",
+  "image": "http://dummyimage.com/153x233.jpg/cc0000/ffffff",
+  "sound": null
+}, {
+  "tr": "Nissan",
+  "en": "Rogue",
+  "image": "http://dummyimage.com/206x176.jpg/ff4444/ffffff",
+  "sound": null
+}, {
+  "tr": "Dodge",
+  "en": "Colt",
+  "image": "http://dummyimage.com/202x200.jpg/dddddd/000000",
+  "sound": null}
+]}

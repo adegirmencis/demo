@@ -1,4 +1,8 @@
-
+{
+        "name":"Sayilar",
+        "count":30,
+        "cards":[
+          {
   "tr": "Aquamarine",
   "en": "Indigo",
   "image": "http://dummyimage.com/177x136.jpg/ff4444/ffffff",
@@ -98,4 +102,4 @@
   "en": "Mauv",
   "image": "http://dummyimage.com/132x195.jpg/dddddd/000000",
   "sound": null
-}]
+}]}

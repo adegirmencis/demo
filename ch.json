@@ -17,4 +17,43 @@
         "replaced_by":null,
         "website":"https://www.002radio.com/",
         "logo":"https://i.imgur.com/7oNe8xj.png"
-        }]
+        },
+        {
+            "id":"001RadioTV.do",
+            "name":"1 Radio TV",
+            "alt_names":[],
+            "network":null,
+            "owners":[],
+            "country":"DO",
+            "subdivision":null,
+            "city":null,
+            "broadcast_area":["c/DO"],
+            "languages":["spa"],
+            "categories":["general"],
+            "is_nsfw":false,
+            "launched":null,
+            "closed":null,
+            "replaced_by":null,
+            "website":"https://www.002radio.com/",
+            "logo":"https://static.vecteezy.com/system/resources/previews/016/450/908/large_2x/tv-logo-icon-isolated-free-vector.jpg"
+            },
+            {
+                "id":"003RadioTV.do",
+                "name":" Radio TV 22",
+                "alt_names":[],
+                "network":null,
+                "owners":[],
+                "country":"DO",
+                "subdivision":null,
+                "city":null,
+                "broadcast_area":["c/DO"],
+                "languages":["spa"],
+                "categories":["general"],
+                "is_nsfw":false,
+                "launched":null,
+                "closed":null,
+                "replaced_by":null,
+                "website":"https://www.002radio.com/",
+                "logo":"https://static.vecteezy.com/system/resources/previews/008/349/469/non_2x/tv-logo-design-flat-icon-vector.jpg"
+                }
+]

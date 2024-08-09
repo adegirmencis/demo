@@ -1,0 +1,30 @@
+[
+  {
+    "bolumler": [
+      {
+        "bolumdi": "Aof Bölümü 1",
+        "bolumId": 1,
+        "bolumResim": "https://images-intl.prod.aws.idp-connect.com/commimg/video/CH/myhc_337352.jpg",
+        "bolumSure": 4
+      },
+      {
+        "bolumdi": "Aof Bölümü 2",
+        "bolumId": 2,
+        "bolumResim": "https://images-intl.prod.aws.idp-connect.com/commimg/video/CH/myhc_337352.jpg",
+        "bolumSure": 4
+      },
+      {
+        "bolumdi": "Aof Bölümü 3",
+        "bolumId": 3,
+        "bolumResim": "https://images-intl.prod.aws.idp-connect.com/commimg/video/CH/myhc_337352.jpg",
+        "bolumSure": 2
+      },
+      {
+        "bolumdi": "Aof Bölümü 4",
+        "bolumId": 4,
+        "bolumResim": "https://images-intl.prod.aws.idp-connect.com/commimg/video/CH/myhc_337352.jpg",
+        "bolumSure": 2
+      }
+    ]
+  }
+]
